@@ -14,4 +14,5 @@ module.exports = {
 		tsconfigRootDir: __dirname,
 	},
 	root: true,
+	ignorePatterns: [".eslintrc.cjs"],
 }
